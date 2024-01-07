@@ -5,7 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherazahmed520&label=Profile%20views&color=0e75b6&style=flat" alt="SherazAhmed520" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sherazahmed520" alt="SherazAhmed520" /></a> </p>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" >
+  <img align="right" alt="coding" width="370" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
+
 
 - 🔭 I’m currently working on [OBE System Automation](https://obesystem.netlify.app/)
 
@@ -72,14 +74,16 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   </a>
+  <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" />
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SherazAhmed520&show_icons=true&locale=en&layout=compact" alt="SherazAhmed520" /></p>
+# GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SherazAhmed520&show_icons=true&locale=en" alt="SherazAhmed520" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SherazAhmed520&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SherazAhmed520&show_icons=true&count_private=true&hide=contribs&theme=onedark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SherazAhmed520&theme=onedark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SherazAhmed520&" alt="SherazAhmed520" /></p>
 
 ## ❤️ Support
 
