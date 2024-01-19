@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **React js**
 
-- 📫 How to reach me **ayaz30672@gmail.com**
+- 📫 How to reach me **sheerazahmed520@gmail.com**
 
 - ⚡ Fun fact **Honey Never Spoils:**
 
