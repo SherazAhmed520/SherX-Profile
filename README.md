@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sheraz Ahmed</h1>
 <h3 align="center">"Passionate Web Developer Building the Future"</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherazahmed520&label=Profile%20views&color=0e75b6&style=flat" alt="SherazAhmed520" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sherazahmed520" alt="SherazAhmed520" /></a> </p>
+<h2>Github Profile Trophies 🏆</h2>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sherazahmed520&theme=juicyfresh" alt="SherazAhmed520" /></a> </p>
+
   <img align="right" alt="coding" width="370" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 
